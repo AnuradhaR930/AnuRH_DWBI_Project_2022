@@ -1,0 +1,2 @@
+# AnuRH_DWBI_Project_2022
+The Data Warehouse and Business Intelligence Project. Data Set: Formula 1 world championships from 1950 to latest 2022 season. Data set selection was achieved, and ETL processing was used to clean, analyze, and store the data set to a data warehouse. OLAP operations were demonstrated by SSAS cube deployment using SQL Server data tools. Excel, Power BI, and SSRS reports are used to visualize data. 
